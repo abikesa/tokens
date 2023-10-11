@@ -1,4 +1,4 @@
-# ~/.ssh/id_protokens; hierachical or nested
+# ~/.ssh/id_protokens; hierachical or nested; 75 tokens for top 3 levels!!
 
 ## 1. Medicine
 
