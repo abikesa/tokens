@@ -1,6 +1,8 @@
-# ~/.ssh/id_protokens; hierachical or nested; 75 tokens for top 3 levels!!
+# ~/.ssh/id_protokens
 
-## 1. Medicine
+## Hierachical or nested; 75 tokens for top 3 levels!!
+
+### 1. Medicine
 
 Level I
 - History
